@@ -1,6 +1,7 @@
 import {serverPortConfig} from "@kabisa-assessment/config";
 import {Quote} from "@kabisa-assessment/types";
-import {HomeQuotes} from "../HomeQuotes";
+import {QuotesList} from "../../components/Quote";
+
 
 export async function getQuotes() {
   console.log('getting quotes from', `http://localhost:${serverPortConfig.server.api.port}/quotes`)
@@ -19,6 +20,6 @@ export default async function Index() {
    */
 
   return (
-    <HomeQuotes initialData={quotes}/>
+    <QuotesList initialData={quotes}/>
   );
 }

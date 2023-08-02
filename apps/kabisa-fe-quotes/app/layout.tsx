@@ -15,8 +15,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={"h-full text-gray-100 bg-slate-900"}>
-    <body className={"h-full bg-violet-900/25"}>
+    <html lang="en" className={"min-h-screen text-gray-100 bg-slate-900"}>
+    <body className={"min-h-screen bg-violet-900/25"}>
     <Providers>
 
       <Sidebar>
