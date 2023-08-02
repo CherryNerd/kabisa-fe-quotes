@@ -30,10 +30,26 @@ app.get('/quotes', (req, res) => {
   res.send({quotes: quoteHandler.quotes});
 });
 
-app.get('/quotes/random', async (req, res) => {
-  const quote = await quoteHandler.fetchRandomQuote();
+app.get('/quotes/top10', async (req, res) => {
+  const quotes = quoteHandler.getTop10Quotes();
+  // res.sendStatus(200);
+  res.send({quotes});
+});
+
+
+app.get('/quote/random', async (req, res) => {
+  const quote = await quoteHandler.getRandomQuote();
+  // res.sendStatus(200);
   res.send({quote});
 });
+
+
+app.get('/quote/:id', async (req, res) => {
+  const quote = quoteHandler.getQuote(req.params.id);
+  // res.sendStatus(200);
+  res.send({quote});
+});
+
 
 app.post('/quote/:id/upvote', async (req, res) => {
   const quote = await quoteHandler.voteOnQuote(req.params.id, true);

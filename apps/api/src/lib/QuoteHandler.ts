@@ -45,17 +45,25 @@ export class QuoteHandler {
     return Date.now() - parseInt(lastQuoteAt);
   }
 
-  private broadcastReload() {
+  private broadcastFullReload() {
     this.wss.clients.forEach((client) => {
       if (client.readyState === WebSocket.OPEN) {
-        client.send(WebSocketEvents.Reload);
+        client.send(JSON.stringify({event: WebSocketEvents.Reload}));
+      }
+    });
+  }
+
+  private broadcastQuoteScoreUpdate(id: string, score: number) {
+    this.wss.clients.forEach((client) => {
+      if (client.readyState === WebSocket.OPEN) {
+        client.send(JSON.stringify({event: WebSocketEvents.QuoteScoreUpdate, id, score}));
       }
     });
   }
 
   private async writeAndBroadcastQuotes() {
     await writeFile(quotesPath, JSON.stringify(this.quotes, null, 4), 'utf-8');
-    this.broadcastReload();
+    this.broadcastFullReload();
   }
 
   async voteOnQuote(id: string, upvote: boolean) {
@@ -72,8 +80,26 @@ export class QuoteHandler {
     });
 
     quote.score += score;
-    await writeFile(quotesPath, JSON.stringify(this.quotes, null, 4), 'utf-8');
+    await this.writeAndBroadcastQuotes();
+    await this.broadcastQuoteScoreUpdate(id, quote.score);
     return quote;
+  }
+
+  getQuote(id: string) {
+    return this.quotes.find(q => q.id === id);
+  }
+
+  getTop10Quotes() {
+    return this.quotes.sort((a, b) => b.score - a.score).slice(0, 10);
+  }
+
+  async getRandomQuote() {
+    const timeSinceLastQuote = await this.getTimeSinceLastQuote();
+    if(timeSinceLastQuote < 6500) {
+      const randomInt = Math.floor(Math.random() * this.quotes.length);
+      return this.quotes[randomInt];
+    }
+    return this.fetchRandomQuote();
   }
 
   async fetchRandomQuote() {

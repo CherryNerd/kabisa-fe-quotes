@@ -1,5 +1,1574 @@
 [
     {
+        "id": "e6498282-f2a1-45a6-93a1-a7891e2cda45",
+        "text": "Trying to define yourself is like trying to bite your own teeth.",
+        "author": "Zen Proverb",
+        "votes": [],
+        "score": 0,
+        "date": 1690988309960
+    },
+    {
+        "id": "02da70ef-aca0-4407-90be-d30663891e3d",
+        "text": "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.",
+        "author": "Henry David Thoreau",
+        "votes": [
+            {
+                "id": "d5a382fe-749c-4988-884e-7e385b790bde",
+                "score": -1,
+                "date": 1690987820971
+            },
+            {
+                "id": "4112fe66-1025-4d47-89a6-6532bdfcb3a1",
+                "score": -1,
+                "date": 1690987821527
+            },
+            {
+                "id": "182eabe7-c2b6-44be-9582-3f2e038102b4",
+                "score": -1,
+                "date": 1690987821710
+            },
+            {
+                "id": "c464b726-1fc8-4456-ab2e-ed2f7e63e002",
+                "score": -1,
+                "date": 1690987821875
+            },
+            {
+                "id": "0b87a3de-643e-4620-91ab-7a45c225f216",
+                "score": 1,
+                "date": 1690987822749
+            },
+            {
+                "id": "01ca9cb8-3255-448d-b405-38cdb0259126",
+                "score": 1,
+                "date": 1690987822858
+            },
+            {
+                "id": "8bff6b46-cd1e-440a-b8fb-257038aa6d42",
+                "score": 1,
+                "date": 1690987822992
+            },
+            {
+                "id": "17295d47-3843-4039-893d-55d4a67c94bb",
+                "score": 1,
+                "date": 1690987823141
+            },
+            {
+                "id": "c0a93444-cb26-4a78-b2d6-27c08c1bde51",
+                "score": 1,
+                "date": 1690987823274
+            },
+            {
+                "id": "eafc316a-233b-4954-afed-0d05a81d28ab",
+                "score": 1,
+                "date": 1690987823407
+            },
+            {
+                "id": "58b85dc5-da8f-4c38-92be-ab80b9ef1ec4",
+                "score": 1,
+                "date": 1690987823541
+            },
+            {
+                "id": "efae697c-a732-4e29-b27e-565d430dcba6",
+                "score": 1,
+                "date": 1690987823674
+            }
+        ],
+        "score": 4,
+        "date": 1690987812555
+    },
+    {
+        "id": "661ef86b-ad4d-4976-a02a-a425f3baf91e",
+        "text": "He is not a lover who does not love forever.",
+        "author": "Euripides",
+        "votes": [
+            {
+                "id": "8b858fef-009d-407d-ab37-1a1849263fcc",
+                "score": 1,
+                "date": 1690988282943
+            },
+            {
+                "id": "4c898cfe-7881-4078-bb92-3f1e43f933de",
+                "score": 1,
+                "date": 1690988283287
+            },
+            {
+                "id": "15ee4708-4d7a-49c8-ac0f-c01852261a3a",
+                "score": 1,
+                "date": 1690988283451
+            },
+            {
+                "id": "0a61ad15-c539-4750-9f86-f4ffaadfbc90",
+                "score": 1,
+                "date": 1690988283614
+            },
+            {
+                "id": "40bc2dc2-f0df-4720-b8b7-16fb8b6012ad",
+                "score": 1,
+                "date": 1690988283728
+            },
+            {
+                "id": "5f1a4c6c-49f9-4c66-8275-12baa2c3d3f8",
+                "score": 1,
+                "date": 1690988283878
+            },
+            {
+                "id": "e656dc92-2dd4-450d-9d9e-d4f213b7e06e",
+                "score": 1,
+                "date": 1690988284028
+            },
+            {
+                "id": "2bec39eb-f7b0-4385-985d-bae9da91b97f",
+                "score": 1,
+                "date": 1690988284162
+            },
+            {
+                "id": "c47fa5b5-f9e8-4901-bd7e-276af4f57833",
+                "score": 1,
+                "date": 1690988284326
+            },
+            {
+                "id": "d484ce17-b26d-4c16-91b7-af321fdfcb3c",
+                "score": 1,
+                "date": 1690988284433
+            },
+            {
+                "id": "c3cc1f02-779f-40e3-9dac-4175f81f8621",
+                "score": 1,
+                "date": 1690988284546
+            },
+            {
+                "id": "ba7e25d7-eb4e-44e9-8ca3-50e40e2dce8a",
+                "score": -1,
+                "date": 1690988285285
+            },
+            {
+                "id": "670ffd38-35a8-46fe-936e-be181d0d3fb5",
+                "score": -1,
+                "date": 1690988285441
+            },
+            {
+                "id": "b68a23ce-c14f-4748-a96d-72fcd8efd1a8",
+                "score": -1,
+                "date": 1690988285562
+            },
+            {
+                "id": "a383a74a-734b-497f-b832-a5ccb0a89d5f",
+                "score": -1,
+                "date": 1690988285683
+            },
+            {
+                "id": "ce2f8edd-5652-4ee8-a8b8-656826f3d306",
+                "score": -1,
+                "date": 1690988285818
+            },
+            {
+                "id": "cd17ea16-99f9-4c2d-b870-807d99909cec",
+                "score": -1,
+                "date": 1690988285949
+            },
+            {
+                "id": "8e237275-6971-4f87-ac9a-593006be687d",
+                "score": -1,
+                "date": 1690988286100
+            },
+            {
+                "id": "60eae3d2-2fb1-4e8a-9d21-a0cdc60320a3",
+                "score": -1,
+                "date": 1690988286250
+            },
+            {
+                "id": "71af8add-1d80-4f39-83c8-20cc246e0c58",
+                "score": -1,
+                "date": 1690988286533
+            },
+            {
+                "id": "4f7e6e1f-8035-4807-bdf9-4d9c24dc60e1",
+                "score": -1,
+                "date": 1690988286718
+            },
+            {
+                "id": "f5be77af-7595-4c1f-92b9-b920203b6f80",
+                "score": -1,
+                "date": 1690988286848
+            },
+            {
+                "id": "70d1451c-f3f1-422b-9aa2-14b841a7874b",
+                "score": -1,
+                "date": 1690988286998
+            },
+            {
+                "id": "9f9dd5f9-fd55-43d9-be1a-0bb75cab4b81",
+                "score": -1,
+                "date": 1690988287165
+            },
+            {
+                "id": "e2569c52-f855-461e-a7e1-48ca0833d0ca",
+                "score": -1,
+                "date": 1690988287317
+            },
+            {
+                "id": "b79fa514-7cfb-4843-9e67-805bb124527a",
+                "score": -1,
+                "date": 1690988287476
+            },
+            {
+                "id": "57def506-60be-47b3-a517-5c2df1c4c27d",
+                "score": -1,
+                "date": 1690988287617
+            },
+            {
+                "id": "1a550a4f-fe3f-462c-843b-9381deca4e9b",
+                "score": 1,
+                "date": 1690988290237
+            },
+            {
+                "id": "48536e41-3e7f-4a1f-9194-dd90872de073",
+                "score": 1,
+                "date": 1690988290366
+            },
+            {
+                "id": "cced90af-f2d1-40d9-a068-cd612f9a63ce",
+                "score": 1,
+                "date": 1690988290518
+            },
+            {
+                "id": "f936cb38-10aa-42ce-98ff-0c26265386fe",
+                "score": 1,
+                "date": 1690988290650
+            },
+            {
+                "id": "23291ba0-f512-45f1-be8e-4deed3f4ddf2",
+                "score": 1,
+                "date": 1690988290817
+            },
+            {
+                "id": "3410f4d7-82c4-4885-a6ae-ea7c3193cbb0",
+                "score": 1,
+                "date": 1690988290949
+            },
+            {
+                "id": "53417cab-2287-4a30-9632-2d2ec412e508",
+                "score": 1,
+                "date": 1690988291082
+            },
+            {
+                "id": "4f793c8b-5d61-42ee-bf49-e1169a957453",
+                "score": 1,
+                "date": 1690988291251
+            }
+        ],
+        "score": 3,
+        "date": 1690988276464
+    },
+    {
+        "id": "2bc0594f-8177-4e6d-aa9b-010de3ac8cb4",
+        "text": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+        "author": "Colin Powell",
+        "votes": [
+            {
+                "id": "0ab46bd0-1457-4b91-9bb8-4ba95041e017",
+                "score": 1,
+                "date": 1690987762246
+            },
+            {
+                "id": "ccb28b46-cacc-416a-9814-c968c60d5d47",
+                "score": 1,
+                "date": 1690987766911
+            },
+            {
+                "id": "f6f186f7-e340-4cf0-b862-5ae9ad9a4289",
+                "score": -1,
+                "date": 1690987769927
+            },
+            {
+                "id": "c60c9438-b1e3-4597-95c9-cba3563097bb",
+                "score": -1,
+                "date": 1690987771741
+            },
+            {
+                "id": "0f5a45d7-0e9a-4542-8d39-b146ab1774a8",
+                "score": 1,
+                "date": 1690987772647
+            },
+            {
+                "id": "df62de7e-9150-4e0f-ac59-099883b9b456",
+                "score": -1,
+                "date": 1690987785212
+            },
+            {
+                "id": "52b817ee-cb63-4645-af13-4c3a74916513",
+                "score": 1,
+                "date": 1690987786377
+            },
+            {
+                "id": "69463610-1c1e-4de4-9857-0a075b41cd02",
+                "score": 1,
+                "date": 1690987786812
+            },
+            {
+                "id": "a5fe9f68-161b-4dc1-bcbe-7198f6410ebd",
+                "score": 1,
+                "date": 1690987805599
+            },
+            {
+                "id": "32c18366-769e-4c69-999a-cad094b3dfa3",
+                "score": -1,
+                "date": 1690987806549
+            },
+            {
+                "id": "7d7f2775-da1a-4824-84fe-85d145f99b60",
+                "score": -1,
+                "date": 1690987807059
+            },
+            {
+                "id": "ac2bac61-d930-43f4-b328-3b7652995e2e",
+                "score": 1,
+                "date": 1690987807860
+            },
+            {
+                "id": "e28fd3b8-69a9-4131-96a0-4e20926798da",
+                "score": 1,
+                "date": 1690987808007
+            },
+            {
+                "id": "2abe9e94-81a4-4bf2-992c-e688bcd68ddb",
+                "score": 1,
+                "date": 1690987808142
+            },
+            {
+                "id": "c4b7e809-72e0-4ed7-af2e-bfba485a46c5",
+                "score": 1,
+                "date": 1690987808290
+            },
+            {
+                "id": "c22bf22e-82de-425c-9f99-d91a465fb468",
+                "score": 1,
+                "date": 1690987808441
+            },
+            {
+                "id": "729fba0c-3597-4776-8244-4ce9ac1c9ca4",
+                "score": -1,
+                "date": 1690987808881
+            },
+            {
+                "id": "3723990e-5614-474c-8004-ef171059619d",
+                "score": -1,
+                "date": 1690987809024
+            },
+            {
+                "id": "80cf841c-df77-4a34-9394-80d0704d0aff",
+                "score": -1,
+                "date": 1690987809158
+            },
+            {
+                "id": "0e5fcd49-8d63-40f9-9213-263d804b4e33",
+                "score": -1,
+                "date": 1690987809308
+            }
+        ],
+        "score": 2,
+        "date": 1690987754507
+    },
+    {
+        "id": "319876dc-e629-47e5-9e09-ea2988f01573",
+        "text": "The biggest adventure you can ever take is to live the life of your dreams. ",
+        "author": "Oprah Winfrey",
+        "votes": [
+            {
+                "id": "4f91717c-2ddb-4d3d-8e37-5b10f5449bad",
+                "score": 1,
+                "date": 1690986936797
+            },
+            {
+                "id": "bee2f465-50be-4d2b-baca-86fc57ec405c",
+                "score": 1,
+                "date": 1690986938444
+            }
+        ],
+        "score": 2,
+        "date": 1690982585090
+    },
+    {
+        "id": "411c3682-0414-4575-bb05-65da218ae469",
+        "text": "For changes to be of any true value, they've got to be lasting and consistent.",
+        "author": "Tony Robbins",
+        "votes": [
+            {
+                "id": "6f44f570-465c-45cf-b9c5-d4b73afde380",
+                "score": 1,
+                "date": 1690987685657
+            }
+        ],
+        "score": 1,
+        "date": 1690987683894
+    },
+    {
+        "id": "efa34f0d-5ccc-48f7-8d85-13d261b76441",
+        "text": "You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.",
+        "author": "Steve Maraboli",
+        "votes": [
+            {
+                "id": "1e1d9eda-56ab-45a2-8472-c63a05baf4dc",
+                "score": 1,
+                "date": 1690987647815
+            }
+        ],
+        "score": 1,
+        "date": 1690987643449
+    },
+    {
+        "id": "dff9071e-fe36-4c92-be84-b39dd85ac3dc",
+        "text": "Don't concern yourself with the money. Be of service. Build. Work. Dream. Create.",
+        "author": "Earl Nightingale",
+        "votes": [
+            {
+                "id": "1cc57707-7ed0-4ec1-9b4e-7dfcbf19a50c",
+                "score": 1,
+                "date": 1690986946907
+            }
+        ],
+        "score": 1,
+        "date": 1690986485265
+    },
+    {
+        "id": "f5079cee-53bd-4b04-9cb0-c0877eeecc21",
+        "text": "Courage is the price that life exacts for granting peace.",
+        "author": "Amelia Earhart",
+        "votes": [
+            {
+                "id": "5dc1b49f-a199-4355-9873-dcd3208b56fd",
+                "score": 1,
+                "date": 1690987062676
+            }
+        ],
+        "score": 1,
+        "date": 1690984507325
+    },
+    {
+        "id": "4201dc39-12d7-497a-ba61-62e3f02b43f0",
+        "text": "The older you get, the better you get. Unless you're a banana.",
+        "author": "Betty White",
+        "votes": [
+            {
+                "id": "c6496c2f-13c1-418e-ae85-81d347c59181",
+                "score": 1,
+                "date": 1690986942988
+            }
+        ],
+        "score": 1,
+        "date": 1690982578255
+    },
+    {
+        "id": "c1403f28-b034-4c95-b3fa-073f072ddd65",
+        "text": "Whatever you think the world is withholding from you, you are withholding from the world.",
+        "author": "Eckhart Tolle",
+        "votes": [],
+        "score": 0,
+        "date": 1690988171547
+    },
+    {
+        "id": "25d5f767-a270-4e1f-9d70-23c864f4d1ad",
+        "text": "Friends ask you questions; enemies question you.",
+        "author": "Criss Jami",
+        "votes": [],
+        "score": 0,
+        "date": 1690988162423
+    },
+    {
+        "id": "a81bb045-c270-4686-8ed0-d458ab15db1b",
+        "text": "All religions, arts and sciences are branches of the same tree. ",
+        "author": "Albert Einstein",
+        "votes": [],
+        "score": 0,
+        "date": 1690988143057
+    },
+    {
+        "id": "42dec35f-d7d6-4000-8bdf-5d187c415373",
+        "text": "He will win who knows when to fight and when not to fight.",
+        "author": "Sun Tzu",
+        "votes": [],
+        "score": 0,
+        "date": 1690988098213
+    },
+    {
+        "id": "c6571bce-2d19-453d-80c1-55150d6f73e5",
+        "text": "Success is often achieved by those who don't know that failure is inevitable.",
+        "author": "Coco Chanel",
+        "votes": [],
+        "score": 0,
+        "date": 1690988082598
+    },
+    {
+        "id": "55984b50-b224-4a31-a0c4-1c555a07147e",
+        "text": "Just throw away all thoughts of imaginary things, and stand firm in that which you are.",
+        "author": "Kabir",
+        "votes": [],
+        "score": 0,
+        "date": 1690988082498
+    },
+    {
+        "id": "997b7333-a588-46e0-baca-7d21c07aaa5b",
+        "text": "Life's too mysterious to take too serious.",
+        "author": "Mary Engelbreit",
+        "votes": [],
+        "score": 0,
+        "date": 1690988060828
+    },
+    {
+        "id": "cd6cde51-0dcd-4ec3-8b51-4db9d659be2f",
+        "text": "All problems are interpersonal relationship problems.",
+        "author": "Alfred Adler",
+        "votes": [],
+        "score": 0,
+        "date": 1690988045892
+    },
+    {
+        "id": "1625afb5-1b0a-455e-86e4-b0dd5955e14d",
+        "text": "It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.",
+        "author": "Roy T. Bennett",
+        "votes": [],
+        "score": 0,
+        "date": 1690988045886
+    },
+    {
+        "id": "6d604536-60a0-4508-b098-bb1161c41f5b",
+        "text": "I know of only one duty, and that is to love.",
+        "author": "George Bernard Shaw",
+        "votes": [],
+        "score": 0,
+        "date": 1690988020032
+    },
+    {
+        "id": "cafc404c-0a8f-46c3-93f4-328e45fe5e1e",
+        "text": "Never give way to laziness.",
+        "author": "Bhagavad Gita",
+        "votes": [],
+        "score": 0,
+        "date": 1690987999755
+    },
+    {
+        "id": "09e683ce-ab42-464c-8b07-6887eff00cb5",
+        "text": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
+        "author": "Ayn Rand",
+        "votes": [],
+        "score": 0,
+        "date": 1690987999673
+    },
+    {
+        "id": "10b34b5f-ab36-42fe-9a9e-1282f36f615a",
+        "text": "Nothing will work unless you do.",
+        "author": "Maya Angelou",
+        "votes": [],
+        "score": 0,
+        "date": 1690987988114
+    },
+    {
+        "id": "be05efcd-753c-4022-ae6d-d13ff198053c",
+        "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+        "author": "Marcus Aurelius",
+        "votes": [],
+        "score": 0,
+        "date": 1690987951983
+    },
+    {
+        "id": "25c91a5f-84b4-4ed1-8055-b75519a565bd",
+        "text": "Your greatest asset is your earning ability. Your greatest resource is your time.",
+        "author": "Brian Tracy",
+        "votes": [],
+        "score": 0,
+        "date": 1690987934798
+    },
+    {
+        "id": "f72c723a-75f0-4919-ab8e-d171a6fbfa99",
+        "text": "Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.",
+        "author": "Eckhart Tolle",
+        "votes": [],
+        "score": 0,
+        "date": 1690987934770
+    },
+    {
+        "id": "c931a78c-1732-4489-92f3-50902616303c",
+        "text": "Troubles are often the tools by which God fashions us for better things.",
+        "author": "Henry Ward Beecher",
+        "votes": [],
+        "score": 0,
+        "date": 1690987872051
+    },
+    {
+        "id": "e6338fc0-4325-4cb0-978f-8d0ffc9ff0b1",
+        "text": "The wisest men follow their own direction.",
+        "author": "Euripides",
+        "votes": [],
+        "score": 0,
+        "date": 1690987872049
+    },
+    {
+        "id": "a8f08a67-4652-45a0-9c82-44a2ba044062",
+        "text": "You know the more one does the more one can do.",
+        "author": "Amelia Earhart",
+        "votes": [],
+        "score": 0,
+        "date": 1690987854013
+    },
+    {
+        "id": "adbf7dcc-fe77-42af-8375-3c913ea24ce5",
+        "text": "Believe nothing you hear, and only one half that you see.",
+        "author": "Edgar Allan Poe",
+        "votes": [],
+        "score": 0,
+        "date": 1690987853966
+    },
+    {
+        "id": "e245450d-4725-41d1-a99d-0bfb8e0397d7",
+        "text": "Even when a friend does something you do not like, he continues to be your friend. ",
+        "author": "Genghis Khan",
+        "votes": [],
+        "score": 0,
+        "date": 1690987844340
+    },
+    {
+        "id": "c2bc0270-823a-4cdd-8713-3cfdd3246b58",
+        "text": "Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.",
+        "author": "Thomas Jefferson",
+        "votes": [
+            {
+                "id": "2557c2c6-299e-463b-b1f7-3d2c5d2e7e33",
+                "score": 1,
+                "date": 1690987720712
+            },
+            {
+                "id": "c001c48c-19ca-4ab9-b16c-5648aa8ff391",
+                "score": -1,
+                "date": 1690987723998
+            }
+        ],
+        "score": 0,
+        "date": 1690987709123
+    },
+    {
+        "id": "34cdf614-deb5-4e02-882b-99dc03eda6bc",
+        "text": "Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'",
+        "author": "Brian Tracy",
+        "votes": [],
+        "score": 0,
+        "date": 1690987698772
+    },
+    {
+        "id": "6b60e95d-fdb8-465d-8cf3-f9dab3bfcc2b",
+        "text": "Where does a thought go when it's forgotten?",
+        "author": "Sigmund Freud",
+        "votes": [
+            {
+                "id": "6e53c7e1-19f4-4262-bd13-b52d8c52b029",
+                "score": 1,
+                "date": 1690987628946
+            },
+            {
+                "id": "74973617-3344-4c9a-88d0-93bbb43d7ea0",
+                "score": -1,
+                "date": 1690987631263
+            }
+        ],
+        "score": 0,
+        "date": 1690987625240
+    },
+    {
+        "id": "c646059d-38ee-4b27-b048-98ad410a7e91",
+        "text": "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.",
+        "author": "Celestine Chua",
+        "votes": [],
+        "score": 0,
+        "date": 1690987060532
+    },
+    {
+        "id": "268e5513-27b3-4b78-9d87-4891b5518b9d",
+        "text": "The scariest moment is always just before you start. After that, things can only get better.",
+        "author": "Stephen King",
+        "votes": [],
+        "score": 0,
+        "date": 1690987060518
+    },
+    {
+        "id": "ee60ba76-9068-46eb-b014-385acfa507f8",
+        "text": "Men go to far greater lengths to avoid what they fear than to obtain what they desire.",
+        "author": "Dan Brown",
+        "votes": [],
+        "score": 0,
+        "date": 1690987060506
+    },
+    {
+        "id": "3c3d33b6-bf99-42bb-bb54-85c1f38f4db7",
+        "text": "The fewer the words, the better the prayer.",
+        "author": "Martin Luther",
+        "votes": [],
+        "score": 0,
+        "date": 1690987009132
+    },
+    {
+        "id": "18894f7c-cf7e-4c4d-be38-75d84dba6ac5",
+        "text": "Quality is more important than quantity. One home run is much better than two doubles.",
+        "author": "Steve Jobs",
+        "votes": [],
+        "score": 0,
+        "date": 1690986954324
+    },
+    {
+        "id": "e03b2b98-8441-471c-8b06-605b0bd8ee2a",
+        "text": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  ",
+        "author": "David Brinkley",
+        "votes": [],
+        "score": 0,
+        "date": 1690986940637
+    },
+    {
+        "id": "9beb7335-1734-4243-a5fd-7b9a6fceb2e2",
+        "text": "Freeing oneself from words is liberation. ",
+        "author": "Bodhidharma",
+        "votes": [],
+        "score": 0,
+        "date": 1690986930262
+    },
+    {
+        "id": "1deaf3eb-ec3c-41d3-92e7-f9ad97151b21",
+        "text": "No matter how tall the mountain is, it cannot block the sun.",
+        "author": "Chinese Proverb",
+        "votes": [],
+        "score": 0,
+        "date": 1690986920105
+    },
+    {
+        "id": "284d1231-2447-488c-9238-46ae5eae926b",
+        "text": "We must be free not because we claim freedom, but because we practice it.",
+        "author": "William Faulkner",
+        "votes": [],
+        "score": 0,
+        "date": 1690986920064
+    },
+    {
+        "id": "9c31dd4b-3e4d-4e96-9333-3369c6337e28",
+        "text": "Give a girl the right shoes, and she can conquer the world.",
+        "author": "Bette Midler",
+        "votes": [],
+        "score": 0,
+        "date": 1690986886917
+    },
+    {
+        "id": "8a217739-f8d2-4793-8186-f689085a11a0",
+        "text": "If you can change your mind, you can change your life.",
+        "author": "William James",
+        "votes": [],
+        "score": 0,
+        "date": 1690986879270
+    },
+    {
+        "id": "74f74a98-1781-4e09-a598-f5ec7de971b5",
+        "text": "The more I want to get something done, the less I call it work.",
+        "author": "Richard Bach",
+        "votes": [],
+        "score": 0,
+        "date": 1690986859421
+    },
+    {
+        "id": "d7a7d02d-ffc4-4cd0-8816-920a27c913ea",
+        "text": "The four P's to success are pressure, persistence, perseverance, and prayer.",
+        "author": "Steve Harvey",
+        "votes": [],
+        "score": 0,
+        "date": 1690986850132
+    },
+    {
+        "id": "4a873283-0fda-447d-9655-ffb12d1499ca",
+        "text": "The strongest and sweetest songs yet remain to be sung.",
+        "author": "Walt Whitman",
+        "votes": [],
+        "score": 0,
+        "date": 1690986828022
+    },
+    {
+        "id": "22555535-ea94-47fb-9327-1235d51233a6",
+        "text": "Walking with a friend in the dark is better than walking alone in the light.",
+        "author": "Helen Keller",
+        "votes": [],
+        "score": 0,
+        "date": 1690986818961
+    },
+    {
+        "id": "d121aa9b-09cd-446b-b812-4c596de124a2",
+        "text": "In nature there is no alienation. Everything belongs.",
+        "author": "Ming-Dao Deng",
+        "votes": [],
+        "score": 0,
+        "date": 1690986788520
+    },
+    {
+        "id": "114e19cb-e52e-4946-987f-e43923f5f5b3",
+        "text": "Care about what other people think and you will always be their prisoner.",
+        "author": "Lao Tzu",
+        "votes": [],
+        "score": 0,
+        "date": 1690986772529
+    },
+    {
+        "id": "eeba2ac1-f6be-4c8a-800e-de031fb9c263",
+        "text": "Do not fight with pigs - you will be smeared in mud but the pig will like it.",
+        "author": "George Bernard Shaw",
+        "votes": [],
+        "score": 0,
+        "date": 1690986754219
+    },
+    {
+        "id": "2465c9f4-c029-43e5-9eb0-c0f4aa83f906",
+        "text": "Your home is where your thoughts find peace.",
+        "author": "Zen Proverb",
+        "votes": [],
+        "score": 0,
+        "date": 1690986754218
+    },
+    {
+        "id": "a9937ffd-6315-4899-9f9a-62b41733481a",
+        "text": "When you're the only sane person, you look like the only insane person.",
+        "author": "Criss Jami",
+        "votes": [],
+        "score": 0,
+        "date": 1690986733446
+    },
+    {
+        "id": "83984b11-d804-422f-93e0-fe850ba5adb5",
+        "text": "The more perfect a person is on the outside, the more demons they have on the inside.",
+        "author": "Sigmund Freud",
+        "votes": [],
+        "score": 0,
+        "date": 1690986733356
+    },
+    {
+        "id": "2edfc024-8001-4ff1-b287-21fd8ad55305",
+        "text": "May you find grace as you surrender to life. May you find happiness, as you stop seeking it.",
+        "author": "Dan Millman",
+        "votes": [],
+        "score": 0,
+        "date": 1690986714652
+    },
+    {
+        "id": "3f8d96a3-a1d7-46ed-b43f-786ead3df56a",
+        "text": "Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.",
+        "author": "Nicolas Chamfort",
+        "votes": [],
+        "score": 0,
+        "date": 1690986700329
+    },
+    {
+        "id": "53aa8120-d919-49ab-9727-491d3caeccc5",
+        "text": "Everything eaten is killed. Every meal is a sacrifice.",
+        "author": "Adi Da Samraj",
+        "votes": [],
+        "score": 0,
+        "date": 1690986682482
+    },
+    {
+        "id": "3a63f144-1979-4562-85a8-4c42f3c0bc8b",
+        "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+        "author": "Thich Nhat Hanh",
+        "votes": [],
+        "score": 0,
+        "date": 1690986670587
+    },
+    {
+        "id": "7b050560-2e2c-4e2e-8ad1-540e33cb049d",
+        "text": "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.",
+        "author": "John Eliot",
+        "votes": [],
+        "score": 0,
+        "date": 1690986663078
+    },
+    {
+        "id": "731a2d79-6827-4484-b482-8d05704ac566",
+        "text": "Man must use what he has, not hope for what is not.",
+        "author": "G.I. Gurdjieff",
+        "votes": [],
+        "score": 0,
+        "date": 1690986639909
+    },
+    {
+        "id": "053aabdc-ba93-4c70-94d1-8e7a41a1b590",
+        "text": "Life is a succession of lessons, which must be lived to be understood.",
+        "author": "Ralph Waldo Emerson",
+        "votes": [],
+        "score": 0,
+        "date": 1690986631297
+    },
+    {
+        "id": "c6453fd5-b700-4459-8ed5-37086ed4ab91",
+        "text": "You can never get enough of what you don't need to make you happy.",
+        "author": "Eric Hoffer",
+        "votes": [],
+        "score": 0,
+        "date": 1690986607026
+    },
+    {
+        "id": "5c2c5fbf-125a-416f-b60a-613ed2a78acd",
+        "text": "Life is a journey, not a destination.",
+        "author": "Dan Millman",
+        "votes": [],
+        "score": 0,
+        "date": 1690986606960
+    },
+    {
+        "id": "45fc2534-e034-4dfc-8a21-a7dc804ce026",
+        "text": "Doubt is an uncomfortable condition, but certainty is a ridiculous one.",
+        "author": "Voltaire",
+        "votes": [],
+        "score": 0,
+        "date": 1690986606825
+    },
+    {
+        "id": "fd78fbd8-98fd-4a3d-b085-de7e271e9cac",
+        "text": "In order to be irreplaceable one must always be different.",
+        "author": "Coco Chanel",
+        "votes": [],
+        "score": 0,
+        "date": 1690986567089
+    },
+    {
+        "id": "64527991-5709-4fb9-b4aa-e49d1bea5d16",
+        "text": "The less you talk about your shame, the more of it you have.",
+        "author": "Mark Manson",
+        "votes": [],
+        "score": 0,
+        "date": 1690986546158
+    },
+    {
+        "id": "7cfe8981-ef2f-42b5-8bed-f3126542e763",
+        "text": "Your success and happiness lie in you.",
+        "author": "Helen Keller",
+        "votes": [],
+        "score": 0,
+        "date": 1690986546089
+    },
+    {
+        "id": "0cac0dc8-db72-4090-8a02-113351386c01",
+        "text": "Words without actions are the assassins of idealism.",
+        "author": "Herbert Hoover",
+        "votes": [],
+        "score": 0,
+        "date": 1690986527075
+    },
+    {
+        "id": "a7ab07d8-2c27-4d7f-8803-ee1b76194348",
+        "text": "It's not whether you get knocked down, its whether you get back up.",
+        "author": "Vince Lombardi",
+        "votes": [],
+        "score": 0,
+        "date": 1690986520007
+    },
+    {
+        "id": "56d7f8b6-5f9c-4d7e-8c9b-3e11479832d9",
+        "text": "Love the life you live, live the life you love.",
+        "author": "Bob Marley",
+        "votes": [],
+        "score": 0,
+        "date": 1690986512122
+    },
+    {
+        "id": "c0834242-c079-423b-bca0-1fbf642f8e73",
+        "text": "If your mind is empty, it is always ready for anything, it is open to everything.",
+        "author": "Shunryu Suzuki",
+        "votes": [],
+        "score": 0,
+        "date": 1690986505323
+    },
+    {
+        "id": "86417d67-611f-45de-8152-d051e83c1195",
+        "text": "Happiness is only real when shared.",
+        "author": "Christopher McCandless",
+        "votes": [],
+        "score": 0,
+        "date": 1690986485182
+    },
+    {
+        "id": "35bc5b6c-9840-421c-bb36-d20184d03b5d",
+        "text": "To every action there is always opposed an equal reaction.",
+        "author": "Isaac Newton",
+        "votes": [],
+        "score": 0,
+        "date": 1690986470755
+    },
+    {
+        "id": "0f514b1b-13d8-439f-93c8-defe3c67b830",
+        "text": "Always keep your eyes open. Keep watching. Because whatever you see can inspire you.",
+        "author": "Grace Coddington",
+        "votes": [],
+        "score": 0,
+        "date": 1690986445823
+    },
+    {
+        "id": "441797bd-61dc-40b1-8dd3-f8d63647ec47",
+        "text": "Anything becomes interesting if you look at it long enough..",
+        "author": "Gustave Flaubert",
+        "votes": [],
+        "score": 0,
+        "date": 1690986445808
+    },
+    {
+        "id": "d7901e0d-dc1c-44ac-865e-4b91a995e9f9",
+        "text": "It's not what you've got; it's what you do that makes the difference.",
+        "author": "Celestine Chua",
+        "votes": [],
+        "score": 0,
+        "date": 1690986436230
+    },
+    {
+        "id": "684f705c-930d-4dfa-aec5-fdeb7f4aad4b",
+        "text": "The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.",
+        "author": "Charles Dickens",
+        "votes": [],
+        "score": 0,
+        "date": 1690986428971
+    },
+    {
+        "id": "4fbb09cf-a2fc-4003-87c7-271857441a6e",
+        "text": "A zen master's life is one continuous mistake.",
+        "author": "Dogen",
+        "votes": [],
+        "score": 0,
+        "date": 1690986428938
+    },
+    {
+        "id": "725497c6-3639-4f9f-8533-1f5c706f0866",
+        "text": "Knowledge is learning something everyday. Wisdom is letting go of something everyday.",
+        "author": "Unknown",
+        "votes": [],
+        "score": 0,
+        "date": 1690986416871
+    },
+    {
+        "id": "0d0886f8-2f3b-4af9-adfe-156f519ea282",
+        "text": "If fear is too strong, the genius is suppressed.",
+        "author": "Robert Kiyosaki",
+        "votes": [],
+        "score": 0,
+        "date": 1690986400782
+    },
+    {
+        "id": "e02b79b8-adce-4d63-acf4-790b39de5e1c",
+        "text": "Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.",
+        "author": "Alexander Graham Bell",
+        "votes": [],
+        "score": 0,
+        "date": 1690986380065
+    },
+    {
+        "id": "8293ee85-641a-422b-bc69-3716a29e1ffb",
+        "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "author": "Buddha",
+        "votes": [],
+        "score": 0,
+        "date": 1690986366279
+    },
+    {
+        "id": "70e3694b-a488-42a6-8177-a936f29fdf8b",
+        "text": "People who say it cannot be done should not interrupt those who are doing it.",
+        "author": "George Bernard Shaw",
+        "votes": [],
+        "score": 0,
+        "date": 1690986320414
+    },
+    {
+        "id": "42ac348a-1a6d-4c2f-adb0-99214f4d5136",
+        "text": "Repetition does not transform a lie into a truth.",
+        "author": "Franklin D. Roosevelt",
+        "votes": [],
+        "score": 0,
+        "date": 1690986273265
+    },
+    {
+        "id": "a108b8ea-9022-4f98-af4d-043f4cd7dc51",
+        "text": "Do not take life too seriously. You will never get out of it alive.",
+        "author": "Elbert Hubbard",
+        "votes": [],
+        "score": 0,
+        "date": 1690986246803
+    },
+    {
+        "id": "ac719679-1456-4811-91e0-0b3f8524022a",
+        "text": "Let not your mind run on what you lack as much as on what you have already.",
+        "author": "Marcus Aurelius",
+        "votes": [],
+        "score": 0,
+        "date": 1690986237941
+    },
+    {
+        "id": "aac73066-8c3c-44f9-bc95-86e5beb8b2fa",
+        "text": "It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.",
+        "author": "Steve Maraboli",
+        "votes": [],
+        "score": 0,
+        "date": 1690986221777
+    },
+    {
+        "id": "e9a6543d-130e-41ef-a1b3-443312ec5fdf",
+        "text": "Here and now...breathe and relax...in battle and in life.",
+        "author": "Dan Millman",
+        "votes": [],
+        "score": 0,
+        "date": 1690986178912
+    },
+    {
+        "id": "883b6089-32d0-43dc-a25e-7313240f558a",
+        "text": "The question isn't who is going to let me; it's who is going to stop me.",
+        "author": "Ayn Rand",
+        "votes": [],
+        "score": 0,
+        "date": 1690986168855
+    },
+    {
+        "id": "89afba14-0e49-41f3-8dc5-87b07b912a31",
+        "text": "Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.",
+        "author": "Steve Maraboli",
+        "votes": [],
+        "score": 0,
+        "date": 1690986161769
+    },
+    {
+        "id": "fbf82790-d26c-4a09-9adc-c11b881f377f",
+        "text": "Perpetual optimism is a force multiplier.",
+        "author": "Colin Powell",
+        "votes": [],
+        "score": 0,
+        "date": 1690986161745
+    },
+    {
+        "id": "c2186248-5fde-4e3d-a3ca-3690e926df19",
+        "text": "Less is more.",
+        "author": "Robert Browning",
+        "votes": [],
+        "score": 0,
+        "date": 1690986147234
+    },
+    {
+        "id": "5c88d2e4-8893-4ea8-8681-2cd3703d9ea3",
+        "text": "Never lose hope. Storms make people stronger and never last forever.",
+        "author": "Roy T. Bennett",
+        "votes": [],
+        "score": 0,
+        "date": 1690986132907
+    },
+    {
+        "id": "f47e1b3f-76e8-4872-b29f-0951657a76de",
+        "text": "If I can pay the bills, I'm happy.",
+        "author": "Morgan Wootten",
+        "votes": [],
+        "score": 0,
+        "date": 1690986100919
+    },
+    {
+        "id": "c3348f56-7ee0-4138-bb05-e3392a08f3b0",
+        "text": "I know not all that may be coming, but be it what it will, I'll go to it laughing.",
+        "author": "Herman Melville",
+        "votes": [],
+        "score": 0,
+        "date": 1690986100860
+    },
+    {
+        "id": "8c70c112-fc8a-4183-aa3c-146efbf05188",
+        "text": "No man is free who is not master of himself.",
+        "author": "Epictetus",
+        "votes": [],
+        "score": 0,
+        "date": 1690986100845
+    },
+    {
+        "id": "c07c411c-6ff0-4e78-9d30-d72dcb6b8ab8",
+        "text": "Life is like a beautiful melody, only the lyrics are messed up.",
+        "author": "Hans Christian Andersen",
+        "votes": [],
+        "score": 0,
+        "date": 1690986074676
+    },
+    {
+        "id": "cba97fff-80ec-424d-b565-24aabd7de687",
+        "text": "To be able to forget means sanity.",
+        "author": "Jack London",
+        "votes": [],
+        "score": 0,
+        "date": 1690986034524
+    },
+    {
+        "id": "015704c0-0079-401c-b8e1-8f4d868aeda3",
+        "text": "A memory is a beautiful thing, it's almost a desire that you miss.",
+        "author": "Gustave Flaubert",
+        "votes": [],
+        "score": 0,
+        "date": 1690986026483
+    },
+    {
+        "id": "fdce262a-713e-428f-a914-8a169ee9b764",
+        "text": "For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.",
+        "author": "Celestine Chua",
+        "votes": [],
+        "score": 0,
+        "date": 1690985995034
+    },
+    {
+        "id": "8918cecc-156b-453e-9444-316acaa2d1d0",
+        "text": "A day wasted on others is not wasted on one's self.",
+        "author": "Charles Dickens",
+        "votes": [],
+        "score": 0,
+        "date": 1690985994961
+    },
+    {
+        "id": "aa920a85-111a-46f5-925c-7ae60571a118",
+        "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+        "author": "Thomas Edison",
+        "votes": [],
+        "score": 0,
+        "date": 1690985967734
+    },
+    {
+        "id": "69c2f71d-4891-4cc8-bc11-0e4f8e7de08c",
+        "text": "The few who do are the envy of the many who only watch.",
+        "author": "Jim Rohn",
+        "votes": [],
+        "score": 0,
+        "date": 1690985954087
+    },
+    {
+        "id": "b4fd4a40-c2ba-40c0-a49c-9f1a496b11e2",
+        "text": "Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.",
+        "author": "Og Mandino",
+        "votes": [],
+        "score": 0,
+        "date": 1690985931605
+    },
+    {
+        "id": "4bbdcabc-f5b2-4ac1-9beb-f4995074d914",
+        "text": "Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.",
+        "author": "Bhagavad Gita",
+        "votes": [],
+        "score": 0,
+        "date": 1690985921871
+    },
+    {
+        "id": "05555a81-7033-47bd-8ddb-14f00e9db20d",
+        "text": "He who cheats the earth will be cheated by the earth.",
+        "author": "Chinese Proverb",
+        "votes": [],
+        "score": 0,
+        "date": 1690985912399
+    },
+    {
+        "id": "8207779f-7b95-438b-af94-88de9a8337b8",
+        "text": "The outer conditions of a person's life will always be found to reflect their inner beliefs.",
+        "author": "James Allen",
+        "votes": [],
+        "score": 0,
+        "date": 1690985912394
+    },
+    {
+        "id": "df797eb1-ae2f-4ef1-8ea8-18942d6a1c48",
+        "text": "Do your duty and a little more and the future will take care of itself.",
+        "author": "Andrew Carnegie",
+        "votes": [],
+        "score": 0,
+        "date": 1690985912384
+    },
+    {
+        "id": "385e450d-f29b-463f-99f5-4beb450c4e82",
+        "text": "Not all of us can do great things. But we can do small things with great love.",
+        "author": "Mother Teresa",
+        "votes": [],
+        "score": 0,
+        "date": 1690985881643
+    },
+    {
+        "id": "51e59dbf-7373-486c-abea-940c749451a2",
+        "text": "Too many requests. Obtain an auth key for unlimited access.",
+        "author": "zenquotes.io",
+        "votes": [],
+        "score": 0,
+        "date": 1690985868481
+    },
+    {
+        "id": "e7aae06e-fa20-418d-ae94-ca978c4a4785",
+        "text": "Truth is exact correspondence with reality. ",
+        "author": "Paramahansa Yogananda",
+        "votes": [],
+        "score": 0,
+        "date": 1690985861701
+    },
+    {
+        "id": "e0cdf28c-3906-413a-b4a9-fa121cd52239",
+        "text": "Adults are just children who earn money.",
+        "author": "Kenneth Branagh",
+        "votes": [],
+        "score": 0,
+        "date": 1690985861625
+    },
+    {
+        "id": "d10b8801-07d0-4a13-8a8c-e79d692b0f94",
+        "text": "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.",
+        "author": "Dalai Lama",
+        "votes": [],
+        "score": 0,
+        "date": 1690985861623
+    },
+    {
+        "id": "a557bb3d-7cca-4e6a-abb1-71c54b9569f7",
+        "text": "It's not how much money you make, it's how much money you keep.",
+        "author": "Robert Kiyosaki",
+        "votes": [],
+        "score": 0,
+        "date": 1690985861577
+    },
+    {
+        "id": "e2679dc2-8b97-4e66-98b6-391d7473f8a0",
+        "text": "Life moves on and so should we.",
+        "author": "Spencer Johnson",
+        "votes": [],
+        "score": 0,
+        "date": 1690985842890
+    },
+    {
+        "id": "946ce156-ac09-4c55-adce-fd59cfc3d64d",
+        "text": "The prettiest eyes have cried the most.",
+        "author": "Unknown",
+        "votes": [],
+        "score": 0,
+        "date": 1690985842882
+    },
+    {
+        "id": "6365098d-f2e5-4513-a644-539a4b31b065",
+        "text": "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.",
+        "author": "Elbert Hubbard",
+        "votes": [],
+        "score": 0,
+        "date": 1690985824583
+    },
+    {
+        "id": "87a26c8a-2893-4a59-afc8-ca84aabc8b76",
+        "text": "Don't wait for the right opportunity: create it.",
+        "author": "George Bernard Shaw",
+        "votes": [],
+        "score": 0,
+        "date": 1690985708924
+    },
+    {
+        "id": "0a99cd11-b5b9-45e5-be45-3eafedd2b7e2",
+        "text": "We suffer more often in imagination than in reality.",
+        "author": "Seneca",
+        "votes": [],
+        "score": 0,
+        "date": 1690985702093
+    },
+    {
+        "id": "2ea837fc-e57a-4c7e-a8ee-110c6f8671f0",
+        "text": "No one can hurt you without your consent.",
+        "author": "Eleanor Roosevelt",
+        "votes": [],
+        "score": 0,
+        "date": 1690985694729
+    },
+    {
+        "id": "8151cd30-c449-4e5e-aff0-4805c4e2c693",
+        "text": "The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.",
+        "author": "Zig Ziglar",
+        "votes": [],
+        "score": 0,
+        "date": 1690985649237
+    },
+    {
+        "id": "290cf226-bad5-4234-8506-3a0a48550dc4",
+        "text": "The first rule of business; treat others like they want to treat you.",
+        "author": "Charles Dickens",
+        "votes": [],
+        "score": 0,
+        "date": 1690984641543
+    },
+    {
+        "id": "b7769064-8b80-49fe-9f72-7a958b448868",
+        "text": "To live is to be willing to die over and over again.",
+        "author": "Pema Chodron",
+        "votes": [],
+        "score": 0,
+        "date": 1690984634261
+    },
+    {
+        "id": "e33942a8-9c34-455c-b9de-72472d6661aa",
+        "text": "Everything will be ok in the end. If it's not ok, it's not the end.",
+        "author": "John Lennon",
+        "votes": [],
+        "score": 0,
+        "date": 1690984616842
+    },
+    {
+        "id": "3477135c-104b-4b5a-97b9-6080ebf09b03",
+        "text": "The cost of leadership is self-interest.",
+        "author": "Simon Sinek",
+        "votes": [],
+        "score": 0,
+        "date": 1690984609257
+    },
+    {
+        "id": "643c2c3b-79eb-451e-bc65-2ddff34f598d",
+        "text": "When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.",
+        "author": "Josh Waitzkin",
+        "votes": [],
+        "score": 0,
+        "date": 1690984533166
+    },
+    {
+        "id": "1f679eb3-e59d-4bff-8e53-d99b63a679e3",
+        "text": "To live is the rarest thing in the world. Most people exist, that is all. ",
+        "author": "Oscar Wilde",
+        "votes": [],
+        "score": 0,
+        "date": 1690984533146
+    },
+    {
+        "id": "66169fae-83dc-4709-bafc-9761d9da98df",
+        "text": "To be great is to be misunderstood.",
+        "author": "Ralph Waldo Emerson",
+        "votes": [],
+        "score": 0,
+        "date": 1690984507334
+    },
+    {
+        "id": "29b0e869-e389-4fe6-8893-ccfec8753642",
+        "text": "If ever you feel like an animal among men, be a lion.",
+        "author": "Criss Jami",
+        "votes": [],
+        "score": 0,
+        "date": 1690984402862
+    },
+    {
+        "id": "da55da4f-2a71-46f2-9493-4dbbcf5919df",
+        "text": "Great minds discuss ideas. Average minds discuss events. Small minds discuss people.",
+        "author": "Eleanor Roosevelt",
+        "votes": [],
+        "score": 0,
+        "date": 1690984402856
+    },
+    {
+        "id": "34dbee98-8e21-4ed8-ace2-e2c8807e16cd",
+        "text": "Mistakes are always forgivable, if one has the courage to admit them. ",
+        "author": "Bruce Lee",
+        "votes": [],
+        "score": 0,
+        "date": 1690984367543
+    },
+    {
+        "id": "0fcb2cc2-9d4c-4a12-ac41-5672595601f0",
+        "text": "Life is a question and how we live it is our answer.",
+        "author": "Gary Keller",
+        "votes": [],
+        "score": 0,
+        "date": 1690984367541
+    },
+    {
+        "id": "b5115732-23c6-4f81-b272-959b6c5b5fde",
+        "text": "Before preparing to improve the world, first look around your own home three times. ",
+        "author": "Chinese Proverb",
+        "votes": [],
+        "score": 0,
+        "date": 1690984303522
+    },
+    {
+        "id": "5cda773c-8491-43f8-95d6-31760cd8e3c7",
+        "text": "Being a good example is the best form of service.",
+        "author": "Sathya Sai Baba",
+        "votes": [],
+        "score": 0,
+        "date": 1690984277569
+    },
+    {
+        "id": "107e316f-8d02-4b3e-a1f5-5555a4c94c12",
+        "text": "Education breeds confidence. Confidence breeds hope. Hope breeds peace.",
+        "author": "Confucius",
+        "votes": [],
+        "score": 0,
+        "date": 1690984268750
+    },
+    {
+        "id": "c8d43022-7ba2-487b-975a-28bea1c60679",
+        "text": "Change is hard at first, messy in the middle and gorgeous at the end.",
+        "author": "Robin Sharma",
+        "votes": [],
+        "score": 0,
+        "date": 1690984139885
+    },
+    {
+        "id": "16f0a1a1-8f9f-4061-ba34-3167318fb4f0",
+        "text": "Difficulties strengthen the mind, as labor does the body.  ",
+        "author": "Seneca",
+        "votes": [],
+        "score": 0,
+        "date": 1690984127692
+    },
+    {
+        "id": "625544a7-434f-4169-ba79-6c76461879ce",
+        "text": "The best of us sometimes eat our words.  ",
+        "author": "Albus Dumbledore",
+        "votes": [],
+        "score": 0,
+        "date": 1690983846341
+    },
+    {
+        "id": "e5709819-b98d-4d0f-86cd-94c59e63a414",
+        "text": "We are like islands in the sea, separate on the surface but connected in the deep.",
+        "author": "William James",
+        "votes": [],
+        "score": 0,
+        "date": 1690983711538
+    },
+    {
+        "id": "363aa093-74e4-4e1b-b0f1-e73963eeb070",
+        "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+        "author": "Mother Teresa",
+        "votes": [],
+        "score": 0,
+        "date": 1690983676773
+    },
+    {
+        "id": "f548c063-182e-4334-be26-8406944a9c83",
+        "text": "Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.",
+        "author": "Robin Sharma",
+        "votes": [],
+        "score": 0,
+        "date": 1690983646297
+    },
+    {
+        "id": "fba749d5-faff-44a4-919e-281421aae80e",
+        "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson",
+        "votes": [],
+        "score": 0,
+        "date": 1690983604361
+    },
+    {
+        "id": "352132af-a063-40bb-96d5-29cfe9acab5c",
+        "text": "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.",
+        "author": "Samuel Butler",
+        "votes": [],
+        "score": 0,
+        "date": 1690983519263
+    },
+    {
+        "id": "e431fdd4-9c2b-43d7-b772-82a54fbfd1cf",
+        "text": "In the middle of difficulty lies opportunity.",
+        "author": "Albert Einstein",
+        "votes": [],
+        "score": 0,
+        "date": 1690983420889
+    },
+    {
+        "id": "c125f689-8f24-4ed5-9e53-c0d7f482d71b",
+        "text": "Some people are old at 18 and some are young at 90. Time is a concept that humans created.",
+        "author": "Yoko Ono",
+        "votes": [],
+        "score": 0,
+        "date": 1690983166636
+    },
+    {
         "id": "a20c5589-6dbd-40af-91ad-05ddfe26643b",
         "text": "Don't talk about what you have done or what you are going to do.",
         "author": "Thomas Jefferson",
@@ -48,27 +1617,35 @@
         "date": 1690982591889
     },
     {
-        "id": "319876dc-e629-47e5-9e09-ea2988f01573",
-        "text": "The biggest adventure you can ever take is to live the life of your dreams. ",
-        "author": "Oprah Winfrey",
-        "votes": [],
-        "score": 0,
-        "date": 1690982585090
-    },
-    {
-        "id": "4201dc39-12d7-497a-ba61-62e3f02b43f0",
-        "text": "The older you get, the better you get. Unless you're a banana.",
-        "author": "Betty White",
-        "votes": [],
-        "score": 0,
-        "date": 1690982578255
-    },
-    {
         "id": "008e2ab1-7cc8-4288-8032-86dfc898dfed",
         "text": "Without the confidence, nothing can be accomplished.",
         "author": "Sathya Sai Baba",
         "votes": [],
         "score": 0,
         "date": 1690982571433
+    },
+    {
+        "id": "e3800c2c-0248-4b03-8739-ba6c2a4e118b",
+        "text": "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. ",
+        "author": "Martin Luther",
+        "votes": [
+            {
+                "id": "5521ceb0-ac47-4b45-a4f0-d3de7d2a6033",
+                "score": -1,
+                "date": 1690987906968
+            },
+            {
+                "id": "10bba49a-9b32-4154-b7d6-98f254ff2c4e",
+                "score": -1,
+                "date": 1690987907512
+            },
+            {
+                "id": "5f14d95b-175b-4106-9b12-c5abd928ffb2",
+                "score": -1,
+                "date": 1690987907646
+            }
+        ],
+        "score": -3,
+        "date": 1690987897908
     }
 ]

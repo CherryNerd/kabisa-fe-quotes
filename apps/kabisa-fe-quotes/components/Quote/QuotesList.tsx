@@ -1,19 +1,18 @@
 'use client';
 
 
-import {useQuery} from "@tanstack/react-query";
 import {Quote} from "@kabisa-assessment/types";
-import {getQuotes} from "../../app/page";
 import QuoteCard from "./QuoteCard";
 import useQuotes from "../../hooks/useQuotes";
+import {useQueryClient} from "@tanstack/react-query";
 
 interface HomeQuotesProps {
-  initialData: Quote[]
+  initialData: Quote[],
+  isTop10?: boolean
 }
 
-export function QuotesList({initialData}: HomeQuotesProps) {
-  const {data} = useQuotes(initialData);
-
+export function QuotesList({initialData, isTop10 = false}: HomeQuotesProps) {
+  const {data} = useQuotes(initialData, isTop10);
   return (
     <>
       <div className="flex flex-col">

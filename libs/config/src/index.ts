@@ -21,5 +21,6 @@ export const serverPortConfig: ProjectPortConfig = {
 export enum WebSocketEvents {
   Reload = 'Reload',
   NewQuote = 'NewQuote',
+  QuoteScoreUpdate = 'QuoteScoreUpdate',
 }
 

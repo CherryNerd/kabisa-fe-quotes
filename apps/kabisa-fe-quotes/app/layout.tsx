@@ -1,6 +1,5 @@
 import './global.css';
 import {Sidebar} from "../components/Sidebar";
-import Provider from "./providers";
 import Providers from "./providers";
 
 export const metadata = {
@@ -15,16 +14,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={"min-h-screen text-gray-100 bg-slate-900"}>
-    <body className={"min-h-screen bg-violet-900/25"}>
+    <html lang="en" className={"h-full w-full text-gray-100 bg-violet-950"}>
+    <body className={"h-full w-full"}>
+
     <Providers>
 
-      <Sidebar>
+      <Sidebar/>
 
-        <main className="py-10 lg:pl-72">
-          <div className="px-4 sm:px-6 lg:px-8">{children}</div>
-        </main>
-      </Sidebar>
+
+      <div className="py-10 lg:pl-72 h-full w-full">
+        <div className=" px-4 sm:px-6 lg:px-8 h-full">{children}</div>
+      </div>
     </Providers>
     </body>
     </html>

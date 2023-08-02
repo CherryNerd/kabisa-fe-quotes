@@ -4,20 +4,15 @@ import {navigation} from "./Navigation";
 import {StaticSidebar} from "./Static";
 
 interface SidebarProps {
-  children: React.ReactNode
+  children?: React.ReactNode
 }
 
 export function Sidebar({children}: SidebarProps) {
 
   return (
     <>
-      <>
-        <FoldableSidebar/>
-        <StaticSidebar/>
-
-
-        {children}
-      </>
+      <FoldableSidebar/>
+      <StaticSidebar/>
     </>
   )
 }

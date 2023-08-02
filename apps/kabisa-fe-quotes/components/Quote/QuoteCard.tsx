@@ -62,7 +62,7 @@ export default function QuoteCard({quote}: QuoteProps) {
   return (
     <>
       <div
-        className="col-span-1 divide-y divide-gray-200 rounded-lg bg-slate-800 shadow">
+        className="h-fit divide-y divide-gray-200 rounded-lg bg-slate-800 shadow">
         <div className="w-full items-center justify-between space-x-6 p-6 flex flex-row">
           <div>
             <Score score={quote.score}/>
