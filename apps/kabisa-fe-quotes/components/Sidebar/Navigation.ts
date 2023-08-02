@@ -1,7 +1,10 @@
-import {NextNavigation} from "@kabisa-assessment/types";
-import {HomeIcon, TrophyIcon} from "@heroicons/react/24/outline";
+import {NavigationItem} from "@kabisa-assessment/types";
+import {HashtagIcon, QueueListIcon, TrophyIcon} from "@heroicons/react/24/outline";
 
-export const navigation: NextNavigation[] = [
-  {name: 'Home', href: '/', icon: HomeIcon, current: true},
-  {name: 'Top10', href: '/top10', icon: TrophyIcon, current: false},
+export const navigation: NavigationItem[] = [
+  {name: 'Random', href: '/', icon: HashtagIcon},
+  {name: 'Recent', href: '/recent', icon: QueueListIcon},
+  {name: 'Top10', href: '/top10', icon: TrophyIcon},
 ]
+
+
