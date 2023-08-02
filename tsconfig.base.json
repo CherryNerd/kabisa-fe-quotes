@@ -14,7 +14,13 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@kabisa-assessment/config": ["libs/config/src/index.ts"],
+      "@kabisa-assessment/poc/demo": ["libs/poc/demo/src/index.ts"],
+      "@kabisa-assessment/quote": ["libs/quote/src/index.ts"],
+      "@kabisa-assessment/types": ["libs/types/src/index.ts"],
+      "@kabisa-assessment/util": ["libs/util/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

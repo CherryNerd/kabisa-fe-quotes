@@ -9,7 +9,8 @@
       "outputs": ["{options.outputPath}"],
       "defaultConfiguration": "production",
       "options": {
-        "outputPath": "dist/apps/kabisa-fe-quotes"
+        "outputPath": "dist/apps/kabisa-fe-quotes",
+        "postcssConfig": "apps/kabisa-fe-quotes/postcss.config.js"
       },
       "configurations": {
         "development": {
