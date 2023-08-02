@@ -9,8 +9,6 @@ interface ProviderProps {
 export default function Providers({children}: ProviderProps) {
   const [queryClient] = React.useState(() => new QueryClient())
 
-  console.log('Remounting');
-
   return (
     <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
   )

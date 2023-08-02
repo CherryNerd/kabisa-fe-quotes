@@ -1,11 +1,265 @@
 [
     {
-        "id": "e6498282-f2a1-45a6-93a1-a7891e2cda45",
-        "text": "Trying to define yourself is like trying to bite your own teeth.",
-        "author": "Zen Proverb",
+        "id": "184e3c44-6aeb-4891-9e2a-7c9e586d4640",
+        "text": "Nothing brings down walls as surely as acceptance.",
+        "author": "Deepak Chopra",
         "votes": [],
         "score": 0,
-        "date": 1690988309960
+        "date": 1690989292396
+    },
+    {
+        "id": "8cdce8f4-7b48-4dc7-b818-bf3c4e02f824",
+        "text": "What's the point in being smart enough to read, if everything you read makes you dumb?",
+        "author": "C. Sean McGee",
+        "votes": [],
+        "score": 0,
+        "date": 1690989208298
+    },
+    {
+        "id": "84645742-18f3-42d2-a696-12acea955d38",
+        "text": "Obstacles are those frightful things you see when you take your eyes off your goal.",
+        "author": "Henry Ford",
+        "votes": [],
+        "score": 0,
+        "date": 1690989208282
+    },
+    {
+        "id": "8e5fc409-f119-4892-bed6-fc82732ea721",
+        "text": "It is what we make out of what we have, not what we are given, that separates one person from another.",
+        "author": "Nelson Mandela",
+        "votes": [
+            {
+                "id": "a0b2ee45-3882-43ff-b663-c84d601150f4",
+                "score": 1,
+                "date": 1690989200301
+            },
+            {
+                "id": "e8b2d8b1-e9b9-4306-a962-90ba203e5e5e",
+                "score": -1,
+                "date": 1690989202079
+            }
+        ],
+        "score": 0,
+        "date": 1690989199532
+    },
+    {
+        "id": "444e0f36-ff33-40e9-b7ff-73f021613373",
+        "text": "Patience expands your options. If you insist on immediate gratification, your choices are severely limited.",
+        "author": "Ralph Marston",
+        "votes": [
+            {
+                "id": "24e73b74-7798-4af5-93bc-c3fb5d24367a",
+                "score": 1,
+                "date": 1690989177740
+            },
+            {
+                "id": "c40721e6-fad6-46f5-be92-7dc3dd816f00",
+                "score": -1,
+                "date": 1690989179185
+            },
+            {
+                "id": "1b343522-78d0-49ff-a5d3-3fa6513e7924",
+                "score": 1,
+                "date": 1690989180327
+            }
+        ],
+        "score": 1,
+        "date": 1690989177448
+    },
+    {
+        "id": "4502c68e-939a-412c-9a3b-6cdb85fa66aa",
+        "text": "What you become is far more important than what you get.",
+        "author": "Jim Rohn",
+        "votes": [
+            {
+                "id": "40c0c0af-9ad8-433b-8655-43f3fd9f34db",
+                "score": -1,
+                "date": 1690989129147
+            },
+            {
+                "id": "2cf4e43d-3b2b-4650-a882-5e030058a12b",
+                "score": 1,
+                "date": 1690989130696
+            },
+            {
+                "id": "15ffc06e-fe6e-4c2e-b729-723310c96784",
+                "score": 1,
+                "date": 1690989132343
+            },
+            {
+                "id": "7f7d1b7c-6cf9-42bd-bfec-f8a1a4001acf",
+                "score": -1,
+                "date": 1690989141638
+            },
+            {
+                "id": "f4b91e31-5d43-4060-9021-d93a4613bf55",
+                "score": 1,
+                "date": 1690989143357
+            },
+            {
+                "id": "e04bcd6e-a415-4093-9e31-3b27fde3b850",
+                "score": 1,
+                "date": 1690989144682
+            }
+        ],
+        "score": 2,
+        "date": 1690989127663
+    },
+    {
+        "id": "08497cec-d8d9-45b0-8017-27d4268a7cde",
+        "text": "Always do your best. What you plant now, you will harvest later.",
+        "author": "Og Mandino",
+        "votes": [
+            {
+                "id": "93e16d36-e845-4a64-abe7-467662f79e1a",
+                "score": 1,
+                "date": 1690989086384
+            },
+            {
+                "id": "282052cd-6d55-4025-85e9-67c24a30c8e5",
+                "score": -1,
+                "date": 1690989088848
+            }
+        ],
+        "score": 0,
+        "date": 1690989084674
+    },
+    {
+        "id": "014bc4a9-1ab7-44f3-8ddb-50fc9e9d517e",
+        "text": "Do good by stealth, and blush to find it fame.",
+        "author": "Alexander Pope",
+        "votes": [
+            {
+                "id": "dc50ef23-ad53-4d5c-a435-983733efd3d0",
+                "score": 1,
+                "date": 1690989073092
+            },
+            {
+                "id": "9cbfacb9-363f-4ec2-9422-1ec6d6c3a0a6",
+                "score": -1,
+                "date": 1690989074824
+            }
+        ],
+        "score": 0,
+        "date": 1690989071938
+    },
+    {
+        "id": "d7d72a2f-df9c-40ca-af24-0de173800946",
+        "text": "It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.",
+        "author": "John Lennon",
+        "votes": [
+            {
+                "id": "f353c476-12fc-468e-ba8c-e2cd2b99c768",
+                "score": 1,
+                "date": 1690989032062
+            }
+        ],
+        "score": 1,
+        "date": 1690989031050
+    },
+    {
+        "id": "a285e6d2-72b8-4c4f-add7-6a0f95a5cf0f",
+        "text": "All problems are illusions of the mind.",
+        "author": "Eckhart Tolle",
+        "votes": [],
+        "score": 0,
+        "date": 1690988958587
+    },
+    {
+        "id": "5dd85e0f-6fe4-4bc0-b4de-27d0e5e6dffa",
+        "text": "Leadership starts at the top.",
+        "author": "Morgan Wootten",
+        "votes": [],
+        "score": 0,
+        "date": 1690988901348
+    },
+    {
+        "id": "9b0d2007-588a-4be2-bdc8-17f55556ca08",
+        "text": "Once you learn to quit, it becomes a habit.",
+        "author": "Vince Lombardi",
+        "votes": [],
+        "score": 0,
+        "date": 1690988878610
+    },
+    {
+        "id": "013201aa-f5c3-4174-be22-0502fcb3ff4e",
+        "text": "Where violence reigns, reason is weak.",
+        "author": "Nicolas Chamfort",
+        "votes": [],
+        "score": 0,
+        "date": 1690988850026
+    },
+    {
+        "id": "d327964a-7dd5-4415-a3a5-a49fc68ff202",
+        "text": "Everyone has the right to make his own decisions, but none has the right to force his decision on others.",
+        "author": "Ayn Rand",
+        "votes": [],
+        "score": 0,
+        "date": 1690988842999
+    },
+    {
+        "id": "69ac34ab-8086-4f04-9ee8-43fc4012f464",
+        "text": "From the errors of others, a wise man corrects his own.",
+        "author": "Publilius Syrus",
+        "votes": [],
+        "score": 0,
+        "date": 1690988833727
+    },
+    {
+        "id": "15c529c5-a57d-4c07-8191-3a520f60b28f",
+        "text": "Fool me once, shame on you; fool me twice, shame on me. ",
+        "author": "Chinese Proverb",
+        "votes": [],
+        "score": 0,
+        "date": 1690988804343
+    },
+    {
+        "id": "9861874a-838c-4976-955e-b3d593a5d972",
+        "text": "It is not uncommon for people to spend their whole life waiting to start living.",
+        "author": "Eckhart Tolle",
+        "votes": [],
+        "score": 0,
+        "date": 1690988778912
+    },
+    {
+        "id": "23a25cd9-7b35-407d-8c2a-e451a754de5a",
+        "text": "The salvation of the world lies in the human heart.",
+        "author": "Vaclav Havel",
+        "votes": [],
+        "score": 0,
+        "date": 1690988666845
+    },
+    {
+        "id": "e3134a6c-e66b-4bde-a984-5e1a587eb3a1",
+        "text": "Those who know, do. Those that understand, teach.",
+        "author": "Aristotle",
+        "votes": [],
+        "score": 0,
+        "date": 1690988666570
+    },
+    {
+        "id": "55088dbf-9976-48ab-a8ae-7c0824b5e9ab",
+        "text": "Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.",
+        "author": "Socrates",
+        "votes": [],
+        "score": 0,
+        "date": 1690988654481
+    },
+    {
+        "id": "02a1a4f7-314e-4480-9e41-1810c966bfbe",
+        "text": "Success is getting what you want, happiness is wanting what you get.",
+        "author": "W.P. Kinsella",
+        "votes": [],
+        "score": 0,
+        "date": 1690988654438
+    },
+    {
+        "id": "fd0884a3-7340-4183-af51-d51f3e219c0e",
+        "text": "Whatever satisfies the soul is truth.",
+        "author": "Walt Whitman",
+        "votes": [],
+        "score": 0,
+        "date": 1690988642937
     },
     {
         "id": "02da70ef-aca0-4407-90be-d30663891e3d",
@@ -459,6 +713,62 @@
         "date": 1690982578255
     },
     {
+        "id": "2d7688f3-3f27-48cc-b904-79281c442386",
+        "text": "Belief creates the actual fact.",
+        "author": "William James",
+        "votes": [],
+        "score": 0,
+        "date": 1690988585914
+    },
+    {
+        "id": "16e2d780-53ee-4524-8041-03db24c3e306",
+        "text": "You need to be doing fewer things for more effect instead of doing more things with side effects.",
+        "author": "Gary Keller",
+        "votes": [],
+        "score": 0,
+        "date": 1690988557196
+    },
+    {
+        "id": "716a1ff7-a0dd-462b-b2da-e605e954a3ad",
+        "text": "Treat every moment as your last. It is not preparation for something else.",
+        "author": "Shunryu Suzuki",
+        "votes": [],
+        "score": 0,
+        "date": 1690988538484
+    },
+    {
+        "id": "48c63883-1036-45d5-b964-1132166772a2",
+        "text": "The person who says something is impossible should not interrupt the person who is doing it.",
+        "author": "Chinese Proverb",
+        "votes": [],
+        "score": 0,
+        "date": 1690988515565
+    },
+    {
+        "id": "411595cd-249c-43ca-90fe-0afe67c0c87a",
+        "text": "Try to be a rainbow in someone's cloud.",
+        "author": "Maya Angelou",
+        "votes": [],
+        "score": 0,
+        "date": 1690988515553
+    },
+    {
+        "id": "779d1847-1218-4d11-806e-38dc6aa58691",
+        "text": "Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.",
+        "author": "Shunryu Suzuki",
+        "votes": [],
+        "score": 0,
+        "date": 1690988507028
+    },
+    {
+        "id": "e6498282-f2a1-45a6-93a1-a7891e2cda45",
+        "text": "Trying to define yourself is like trying to bite your own teeth.",
+        "author": "Zen Proverb",
+        "votes": [],
+        "score": 0,
+        "date": 1690988309960
+    },
+    {
         "id": "c1403f28-b034-4c95-b3fa-073f072ddd65",
         "text": "Whatever you think the world is withholding from you, you are withholding from the world.",
         "author": "Eckhart Tolle",
@@ -692,8 +1002,19 @@
         "id": "ee60ba76-9068-46eb-b014-385acfa507f8",
         "text": "Men go to far greater lengths to avoid what they fear than to obtain what they desire.",
         "author": "Dan Brown",
-        "votes": [],
-        "score": 0,
+        "votes": [
+            {
+                "id": "2c8457e9-2bfd-4792-bf6a-e92f0c75e37d",
+                "score": 1,
+                "date": 1690989213443
+            },
+            {
+                "id": "cfd8e773-a6d3-4579-92f1-3bc62497ca28",
+                "score": 1,
+                "date": 1690989215150
+            }
+        ],
+        "score": 2,
         "date": 1690987060506
     },
     {
@@ -1460,8 +1781,54 @@
         "id": "0fcb2cc2-9d4c-4a12-ac41-5672595601f0",
         "text": "Life is a question and how we live it is our answer.",
         "author": "Gary Keller",
-        "votes": [],
-        "score": 0,
+        "votes": [
+            {
+                "id": "e4097ad4-4472-45f4-9640-4b52cac6055b",
+                "score": 1,
+                "date": 1690989307691
+            },
+            {
+                "id": "3c2d7af4-4626-4257-bc10-9e23324d3610",
+                "score": 1,
+                "date": 1690989307694
+            },
+            {
+                "id": "d754fb8b-c417-43df-9883-a41247fcf42d",
+                "score": 1,
+                "date": 1690989307694
+            },
+            {
+                "id": "d196a5ed-af53-4183-803f-3df12f6cbca4",
+                "score": -1,
+                "date": 1690989309010
+            },
+            {
+                "id": "85fe7779-9581-4970-a933-c8aedd5fe5c9",
+                "score": -1,
+                "date": 1690989309012
+            },
+            {
+                "id": "e1c829c7-5196-4bad-bb3a-69f3d661114b",
+                "score": -1,
+                "date": 1690989309014
+            },
+            {
+                "id": "9bb40e01-ae12-4e86-ba29-0ff5f5b34573",
+                "score": -1,
+                "date": 1690989310254
+            },
+            {
+                "id": "fbbc67df-80e6-43a9-888f-3d8a18b8a784",
+                "score": -1,
+                "date": 1690989310263
+            },
+            {
+                "id": "37ea6a3b-f97c-4f8c-b8cc-6af825bdc794",
+                "score": -1,
+                "date": 1690989310264
+            }
+        ],
+        "score": -3,
         "date": 1690984367541
     },
     {

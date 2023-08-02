@@ -22,11 +22,9 @@ export class QuoteHandler {
 
   async init(amount: number = 10) {
     if (!existsSync(timeSinceLastQuotePath)) {
-      console.log('Creating timeSinceLastQuote.txt')
       await writeFile(timeSinceLastQuotePath, '0', 'utf-8');
     }
     if (!existsSync(quotesPath)) {
-      console.log('Creating quotes.json')
       await this.writeAndBroadcastQuotes();
     } else {
       const quotesFileContent = await readFile(quotesPath, 'utf-8');
@@ -117,8 +115,6 @@ export class QuoteHandler {
 
     await writeFile(timeSinceLastQuotePath, Date.now().toString(), 'utf-8');
 
-    console.log(data)
-
     const quote = {
       id: uuidv4(),
       text: data[0].q,
@@ -128,11 +124,8 @@ export class QuoteHandler {
       date: Date.now()
     }
 
-    console.log('Fetched quote: ', `${quote.author}: ${quote.text}`);
-
     const quoteExists = this.quotes.find(q => q.text === quote.text && q.author === quote.author);
     if (quoteExists) {
-      console.log('Quote already exists, skipping...');
       return quoteExists;
     }
 
