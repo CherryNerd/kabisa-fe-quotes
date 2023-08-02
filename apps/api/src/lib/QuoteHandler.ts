@@ -2,11 +2,12 @@ import {Quote, ZenquoteDTO} from "@kabisa-assessment/types";
 import fetch from 'node-fetch';
 import {wait} from "@kabisa-assessment/util";
 import {existsSync} from "node:fs";
-import {readFile, writeFile, } from 'node:fs/promises';
+import {readFile, writeFile,} from 'node:fs/promises';
 import {join} from "path";
-import {WebSocketServer} from "ws";
+import {WebSocket, WebSocketServer} from "ws";
 import * as process from "process";
-import { v4 as uuidv4 } from 'uuid';
+import {v4 as uuidv4} from 'uuid';
+import {WebSocketEvents} from "@kabisa-assessment/config";
 
 const dataFolderPath = join(process.cwd(), 'apps', 'api', 'data');
 
@@ -20,13 +21,13 @@ export class QuoteHandler {
   wss: WebSocketServer;
 
   async init(amount: number = 10) {
-    if(!existsSync(timeSinceLastQuotePath)) {
+    if (!existsSync(timeSinceLastQuotePath)) {
       console.log('Creating timeSinceLastQuote.txt')
       await writeFile(timeSinceLastQuotePath, '0', 'utf-8');
     }
-    if(!existsSync(quotesPath)) {
+    if (!existsSync(quotesPath)) {
       console.log('Creating quotes.json')
-      await writeFile(quotesPath, '[]', 'utf-8');
+      await this.writeAndBroadcastQuotes();
     } else {
       const quotesFileContent = await readFile(quotesPath, 'utf-8');
       this.quotes = JSON.parse(quotesFileContent);
@@ -44,9 +45,40 @@ export class QuoteHandler {
     return Date.now() - parseInt(lastQuoteAt);
   }
 
+  private broadcastReload() {
+    this.wss.clients.forEach((client) => {
+      if (client.readyState === WebSocket.OPEN) {
+        client.send(WebSocketEvents.Reload);
+      }
+    });
+  }
+
+  private async writeAndBroadcastQuotes() {
+    await writeFile(quotesPath, JSON.stringify(this.quotes, null, 4), 'utf-8');
+    this.broadcastReload();
+  }
+
+  async voteOnQuote(id: string, upvote: boolean) {
+    const quote = this.quotes.find(q => q.id === id);
+    if (!quote) {
+      throw new Error('Quote not found');
+    }
+
+    const score = upvote ? 1 : -1;
+    quote.votes.push({
+      id: uuidv4(),
+      score,
+      date: Date.now()
+    });
+
+    quote.score += score;
+    await writeFile(quotesPath, JSON.stringify(this.quotes, null, 4), 'utf-8');
+    return quote;
+  }
+
   async fetchRandomQuote() {
     const timeSinceLastQuote = await this.getTimeSinceLastQuote();
-    if(timeSinceLastQuote < 6500) {
+    if (timeSinceLastQuote < 6500) {
       // Wait for a max of 6.5 seconds before loading the next quote
       // Usage limited to 5 per 30 seconds without an account on zenquotes.io
       // https://docs.zenquotes.io/zenquotes-documentation/#use-limits
@@ -66,22 +98,22 @@ export class QuoteHandler {
       text: data[0].q,
       author: data[0].a,
       votes: [],
-      score: 0
+      score: 0,
+      date: Date.now()
     }
 
     console.log('Fetched quote: ', `${quote.author}: ${quote.text}`);
 
     const quoteExists = this.quotes.find(q => q.text === quote.text && q.author === quote.author);
-    if(quoteExists) {
+    if (quoteExists) {
       console.log('Quote already exists, skipping...');
       return quoteExists;
     }
 
 
-    this.quotes.push(quote)
+    this.quotes.unshift(quote)
 
-    await writeFile(quotesPath, JSON.stringify(this.quotes, null, 4), 'utf-8');
-
+    this.writeAndBroadcastQuotes();
     return quote;
   }
 

@@ -5,17 +5,14 @@ import {useQuery} from "@tanstack/react-query";
 import {Quote} from "@kabisa-assessment/types";
 import {getQuotes} from "../../app/page";
 import QuoteCard from "./QuoteCard";
+import useQuotes from "../../hooks/useQuotes";
 
 interface HomeQuotesProps {
   initialData: Quote[]
 }
 
 export function QuotesList({initialData}: HomeQuotesProps) {
-  const {data} = useQuery<Quote[]>({
-    queryKey: ['quotes'],
-    queryFn: getQuotes,
-    initialData
-  });
+  const {data} = useQuotes(initialData);
 
   return (
     <>
